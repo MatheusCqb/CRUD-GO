@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"github.com/HunCoding/meu-primeiro-crud-go/src/model/service"
+	"github.com/MatheusCqb/CRUD-GO/src/src/model/service"
 	"github.com/gin-gonic/gin"
 )
 
